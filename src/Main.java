@@ -3,7 +3,7 @@ public class Main {
 
 
         int[] wei = new int[3];
-        wei[0]=1;
+        wei[0]= 1;
         wei[1]=2;
         wei[2]=3;
         System.out.print(wei[0] + "," + wei[1] + "," + wei[2]);
